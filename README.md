@@ -4,4 +4,4 @@ This app can be used to manipulate text in different ways like:
   * Convert to lowercase
   * Remove Extra Spaces
   * Copy text
-  * Clear text
+  * Clear text ....etc.
